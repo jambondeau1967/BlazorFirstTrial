@@ -1,0 +1,2 @@
+# BlazorFirstTrial
+ First Blazor Trial
